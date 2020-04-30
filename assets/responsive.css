@@ -1,0 +1,18 @@
+@media(max-width:1300px) {
+    .container h1 {
+        font-size: 86px;
+    }
+    .container h2 {
+        font-size: 38px;
+    }
+    .container a {
+        top: 130px;
+    }
+}
+@media(max-width:1000px) {
+
+}
+
+@media(max-width:670px) {
+
+}
